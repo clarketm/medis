@@ -9,3 +9,8 @@ npm-debug.log
 *.zip
 out
 *.provisionprofile
+.idea
+package-lock.json
+.env
+bin
+patternManager.js
